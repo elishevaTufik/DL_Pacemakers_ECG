@@ -1,0 +1,13 @@
+numpy==1.17.2
+joblib==0.13.2
+Cython==0.29.13
+pandas==0.25.1
+scipy==1.3.1
+scikit-learn==0.21.3
+torch==1.4.0
+wfdb==2.2.1
+biosppy==0.3.0
+tensorboardX==2.0
+tqdm==4.36.1
+pyentrp==0.3.1
+PyWavelets==1.0.3
