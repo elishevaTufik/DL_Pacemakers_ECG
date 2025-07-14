@@ -43,7 +43,11 @@ nb_feats = 20
 thrs_per_class = False
 class_weights = None
 #change!!!
+
+
 classes = sorted(['10370003','426783006'])
+
+
 char2dir = {
         'Q' : 'Training_2',
         'A' : 'Training_WFDB',
