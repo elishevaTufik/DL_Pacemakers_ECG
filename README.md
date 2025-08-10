@@ -1,4 +1,4 @@
-# 🩺 Pacemaker Detection in ECG Signals – Deep Learning Project
+# 🩺 Pacemaker Detection in ECG Signals – Deep Learning Model
 
 This project focuses on building a deep learning model to detect the presence of pacemakers in ECG signals. The work was carried out in collaboration with the AI Center for Cardiology at Sheba Medical Center.
 
