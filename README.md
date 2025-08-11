@@ -2,7 +2,7 @@
 
 This project focuses on building a deep learning model to detect the presence of pacemakers in ECG signals. The work was carried out in collaboration with the AI Center for Cardiology at Sheba Medical Center.
 
-The project will be presented as a poster at the **Israel Cardiology Association Conference** in **May 2025**.
+The project was presented as a poster at the **Israel Cardiology Association Conference** in **May 2025**.
 
 ---
 
